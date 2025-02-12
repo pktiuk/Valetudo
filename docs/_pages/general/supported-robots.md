@@ -158,7 +158,7 @@ The Xiaomi 1C is made by Dreame. It is sold as:
 #### Comments
 
 **Important note:** <br/>
-There are multiple hardware revisions under the same name. Only the `dreame.vacuum.mc1808` is currently supported.
+There are multiple hardware revisions under the same name. Only the `dreame.vacuum.mc1808` is currently supported (hardware revision can be found in the WiFi AP name).
 
 Rooting is pretty easy, only requiring a 3.3v USB UART Adapter, [the Dreame Breakout PCB](https://github.com/Hypfer/valetudo-dreameadapter) and almost no disassembly.
 All warranty seals stay intact.
